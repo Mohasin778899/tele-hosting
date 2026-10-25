@@ -24,7 +24,7 @@ from threading import Thread
 # ============================================================
 # CONFIG
 # ============================================================
-TOKEN = '8973361513:AAGszBlmcJaFEd48FmuTkl886NMU3Y6LZ74'
+TOKEN = '8962084623:AAH7XTgIN8DNQOr9iVBIethf7W8GnhzlDg0'
 OWNER_ID = 6994439211
 ADMIN_ID = 6994439211
 YOUR_USERNAME = '@MOHASINgaming'
